@@ -1,4 +1,7 @@
-PHP Quick Start Sample for Digital Goods API Copyright (C) 2013 Google Inc.
+# Project status
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This project is no longer actively maintained, and remains here as an archive of this work.
 
 digitalgoods-sample-php
 =======================
